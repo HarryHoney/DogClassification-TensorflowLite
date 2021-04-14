@@ -42,7 +42,8 @@ public abstract class Classifier {
     /** Image size along the x axis. */
     private final int imageSizeX;
 
-    /** Image size along the y axis. */
+    /** Image size along the y axis.
+     * */
     private final int imageSizeY;
 
     /** Optional GPU delegate for acceleration. */
